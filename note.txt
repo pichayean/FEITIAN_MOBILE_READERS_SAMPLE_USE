@@ -1,0 +1,1 @@
+https://github.com/realoiji/react-native-ntl-id-card-reader/blob/master/ios/RNNtlIdCardReader.m
